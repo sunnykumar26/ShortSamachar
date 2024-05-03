@@ -18,3 +18,4 @@ after that just run the react app on local host
 npm start
 ```
 
+![shortsamachar](https://github.com/sunnykumar26/ShortSamachar/assets/113859373/7895e077-f6ff-4856-956d-e6d086289d9e)
